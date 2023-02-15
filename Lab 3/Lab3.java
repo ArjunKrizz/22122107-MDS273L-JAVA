@@ -69,7 +69,7 @@ class Lab3 {
         int mode = 0;
         int maxCounts = 0;
     
-        int[] counts = new int[arr.length+1];
+        int[] counts = new int[100];
     
         for (int i = 0; i < arr.length; i++) {
             counts[arr[i]]++;
