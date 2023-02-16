@@ -80,4 +80,3 @@ class lab2 {
         } while (num != 4);
     }
 }
->>>>>>> e905ff4620428b4f90a5aae10d51d7c58e05fcaf

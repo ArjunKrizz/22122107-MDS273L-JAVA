@@ -52,24 +52,34 @@ class Lab3 {
 
         }//
 
-    public static void Median(int[] arr){
-        Arrays.sort(arr);
-        int n;
-        int median;
-        if(arr.length%2==0){
-            n=arr.length/2;
-        }else{
-            n=(arr.length+1)/2;
+        public static void Median(int[] arr){
+            for (int i = 0; i < arr.length-1; i++) {
+                for (int j = 0; j < arr.length-i-1; j++) {
+                    if (arr[j] > arr[j+1]){
+                        int temp = arr[j];
+                        arr[j] = arr[j+1];
+                        arr[j+1] = temp;
+                    }
+                }
+            }
+        
+            int n;
+            int median;
+            if(arr.length % 2 == 0){
+                n = arr.length / 2;
+                median = (arr[n-1] + arr[n]) / 2;
+            } else {
+                n = (arr.length + 1) / 2;
+                median = arr[n-1];
+            }
+            System.out.println("The median of the given array is " + median);
         }
-        median=arr[n];
-        System.out.println("the median of the given array is "+(median));
-
-    }//end
+        //end
     public static void Mode(int[] arr) {
         int mode = 0;
         int maxCounts = 0;
     
-        int[] counts = new int[arr.length+1];
+        int[] counts = new int[100];
     
         for (int i = 0; i < arr.length; i++) {
             counts[arr[i]]++;
