@@ -17,3 +17,9 @@ Search for the details of a student from the array of Student
 (Optional) Searching can be done with Name & Register Number
 Display all students
 Displays the details of all students
+
+FLOWCHART
+
+
+![lab5 drawio](https://user-images.githubusercontent.com/115824939/225951931-107e8097-6fcf-4ad7-a87c-92f6857252c0.png)
+
