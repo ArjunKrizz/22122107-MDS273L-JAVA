@@ -1,4 +1,4 @@
-import java.util.*;
+import java.util.Scanner;
 
 class Lab4{
     static String accountNum;
@@ -27,8 +27,9 @@ class Lab4{
         wArr[1] = 0;
         wArr[2] = withdraw;
         if (withdraw > accountBalance) {
-            return;
+            
             System.out.println("Insufficient balance! Your balance is " + accountBalance);
+            return null;
         } else {
             accountBalance = accountBalance - withdraw;
             wArr[3] = accountBalance;
@@ -83,7 +84,7 @@ class Lab4{
 
                 case 2:
                     float[] b = withdraw(scan);
-                    if (b.length=4) {
+                    if (b.length==4) {
                         trans[num] = b;
                         num++;
                     }
