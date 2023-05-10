@@ -27,6 +27,7 @@ class Lab4{
         wArr[1] = 0;
         wArr[2] = withdraw;
         if (withdraw > accountBalance) {
+            return;
             System.out.println("Insufficient balance! Your balance is " + accountBalance);
         } else {
             accountBalance = accountBalance - withdraw;
@@ -82,7 +83,7 @@ class Lab4{
 
                 case 2:
                     float[] b = withdraw(scan);
-                    if (b[3] != 0) {
+                    if (b.length=4) {
                         trans[num] = b;
                         num++;
                     }
