@@ -1,4 +1,4 @@
-#Lab1
+# Lab1
 ## asking name as input from user as string
 ## asking age as input from user as integer
 ## asking class of the user as string
