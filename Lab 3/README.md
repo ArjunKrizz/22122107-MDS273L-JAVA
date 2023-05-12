@@ -1,3 +1,5 @@
+
+# LAB 3
 Create a java program that performs the following operation:
 The program should collect an integer array from the user
 After the array is entered, you need to create a menu of items
