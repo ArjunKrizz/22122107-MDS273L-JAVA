@@ -12,4 +12,7 @@
 ## provide which region you live in according to your input southern region or northern region(using switch case)
 
 
-![image](https://github.com/ArjunKrizz/22122107-MDS273L-JAVA/assets/115824939/c5ea43c6-4038-495a-b762-36c7ba434021)
+## Flow chart
+
+![image](https://github.com/ArjunKrizz/22122107-MDS273L-JAVA/assets/115824939/ffd70185-1d9d-4b87-b73f-f5532a1512a9)
+
