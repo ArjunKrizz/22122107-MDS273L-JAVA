@@ -1,5 +1,5 @@
 
-# Lab 6
+# LAB 6
 Create a new folder named 'Lab 6'.
 
 Ensure the flow chart, results and readme file are properly documented in the folder.
