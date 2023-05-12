@@ -1,5 +1,6 @@
 ## Lab1
 asking name as input from user as string
+
 asking age as input from user as integer
 asking class of the user as string
 asking gender of the user as charachter if male we need to enter m or choose f for female
