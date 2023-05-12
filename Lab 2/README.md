@@ -18,6 +18,6 @@ The names in the array should be UNIQUE; no duplicate entries are expected!
 Provide necessary validations that the user enters only valid names that are not going to be repeated.
 Removing a name should not create empty space inside the array!
 Format your results properly!!
-flow chart;
+## flow chart;
 ![Untitled Diagram drawio (2)](https://user-images.githubusercontent.com/115824939/217518566-6852495b-9c50-4529-9d2c-267863c27fd8.png)
 
