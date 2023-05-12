@@ -1,4 +1,4 @@
-Lab 7
+# Lab 7
 
 
 Create a new folder in git named 'Lab 7' for the following question and solve the following: create a flowchart and document the results, constraints, etc., in the README.md file for the lab.
@@ -9,7 +9,7 @@ Once the overall summary statistics have been calculated, identify the summary s
 
 Present your results in the appropriate format and write the results in a file.
 
-The methods in the Lab7 class are as follows;
+## The methods in the Lab7 class are as follows;
 
 mean(float[] arr): This method calculates the mean (average) of the values in a float array arr by summing up all the values and dividing by the length of the array. The calculated mean value is returned as a float.
 
