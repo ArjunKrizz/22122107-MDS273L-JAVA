@@ -1,4 +1,11 @@
 5-point Summary
+Iris dataset
+[features , min , max , mean , median , mode ]
+[Sepal Lenght , 4.3, 7.9, 5.8433356, 5.8, 5.0]
+[Sepal width , 2.0, 4.4, 3.0540001, 3.0, 3.0]
+[Petal Lenght, 1.0, 6.9, 3.7586665, 4.3500004, 1.5]
+[Sepal Width, 0.1, 2.5, 1.198667, 1.3, 0.2]
+5-point Summary
 Iris-setosa
 [features , min , max , mean , median , mode ]
 [Sepal Lenght , 4.3, 5.8, 5.0060005, 5.0, 5.0]
