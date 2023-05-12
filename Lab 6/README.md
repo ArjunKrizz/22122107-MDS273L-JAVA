@@ -21,10 +21,13 @@ Least Five repeated words and their count.
 Top Five repeated characters and their count.
 
 Least FIve repeated characters and their count.
+flow chart
+![image](https://github.com/ArjunKrizz/22122107-MDS273L-JAVA/assets/115824939/a35d1089-4c03-46a5-a38d-385ed912698a)
 
 ## output
 
 
 
 ![image](https://github.com/ArjunKrizz/22122107-MDS273L-JAVA/assets/115824939/ba06932a-43a2-4657-bae2-9b1859bcea45)
+
 
